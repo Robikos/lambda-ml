@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "main.lambda_handler",
+        "aws_region": "eu-west-2",
+        "profile_name": "default",
+        "project_name": "lambda-ml",
+        "runtime": "python3.6",
+        "s3_bucket": "ml-model"
+    }
+}
